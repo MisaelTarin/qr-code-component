@@ -50,4 +50,4 @@ I would like to start working with SCSS and theming.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MisaelTarin)
+- Frontend Mentor - [@MisaelTarin](https://www.frontendmentor.io/profile/MisaelTarin)

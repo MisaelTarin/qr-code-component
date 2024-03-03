@@ -1,27 +1,53 @@
-# QrCodeChallenge
+# Frontend Mentor - QR code component solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Code scaffolding
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Overview
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Links
 
-## Running unit tests
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## My process
 
-## Running end-to-end tests
+### Built with
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- [Angular] - JS library
 
-## Further help
+### What I learned
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+CSS is not my strong skill, I have used flexbox and grid in the past but it was already predefined in the project and I was mostly replicating what I saw. This time I had to do it by own, althought is not perfect it was a good start to understand how it works.
+I used angular since I'm mostly familair with the framework.
+
+### Continued development
+
+I need to continue working with flexbox. Building a little more complex UI components. 
+I would like to start working with SCSS and theming.
+
+### Useful resources
+
+- [css tricks - Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me to understand basic concepts of flexbox.
+
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
+## Author
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MisaelTarin)
